@@ -6,8 +6,8 @@
 ### 👩🏻‍💻 About Me
 
 - 👩🏻‍🏫 Pursuing Master's in Computer Science at **[Illinois Institute of Technology](https://www.iit.edu/)**
-- 👩🏻‍🎨 Love developing cool android mobile apps
-- 🌱 Currently learning Cloud Computing, Android Development and RESTful services
+- 👩🏻‍🎨 Love developing cool websites
+- 🌱 Currently learning Cloud Computing with RESTful services
 - 🦹🏻‍♀️ Brushing up my Data Structures and Algorithms skills
 - 📫 How to reach me: **radhediksha1112@gmail.com**
 - 😄 Pronouns: her/she
